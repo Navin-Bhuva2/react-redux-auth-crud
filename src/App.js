@@ -80,7 +80,8 @@ class Login extends React.Component {
         <AppWrapper>
         <div>
 
-       
+       <h6>username: admin</h6>
+       <h6>password: admin</h6>
           
           <div className="loginPage">
             <div className="spacing">
